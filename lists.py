@@ -1,4 +1,4 @@
-"""mylist = ["january","feb","march"]
+mylist = ["january","feb","march"]
 print(mylist[0])
 mylist.append("april")
 print(mylist[3])
@@ -8,7 +8,7 @@ for element in mylist:
 myset={'january','feb','march'}
 myset.add('april')
 print(myset)
-print(mylist)"""
+print(mylist)
 
 
 """for x in [1,2,3]:
