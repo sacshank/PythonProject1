@@ -1,2 +1,2 @@
-myset = {'january','feb','march','april','feb'}
-print(myset)
+thisset = {'january','feb','march','april','feb'}
+print(thisset)
